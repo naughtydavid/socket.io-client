@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "base64-arraybuffer": "0.1.0",
-    "browserify": "4.2.1",
+    "browserify": "4.2.1",,
     "expect.js": "0.2.0",
     "has-cors": "1.0.3",
     "istanbul": "0.2.1",
@@ -35,5 +35,11 @@
     "uglify-js": "2.4.15",
     "zuul": "3.0.0",
     "zuul-ngrok": "2.0.0"
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "websocket",
+    "socket.io",
+    "socket.io-client"
+  ]
 }
